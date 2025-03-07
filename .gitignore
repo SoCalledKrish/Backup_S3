@@ -1,0 +1,4 @@
+encryption.key  # Never push your encryption key!
+__pycache__/    # Ignore Python cache files
+*.zip           # Ignore backup zip files
+*.enc           # Ignore encrypted backups
